@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "f35ffc00053a35fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5347af8c0e82852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d1129dcb45d16af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Loss/Derivative of MSE (testolimited.com).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivative of MSE (testolimited.com)"
+            }
+          },
+          {
+            "id": "5f9f928223a6e1af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "e098ec186e6ce0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbcd6e6f4ee4a2d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e699bea3866a7634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aab721e398080c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8423a38695482c80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f2867a5d67dde9a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68757ec6ab6c6898",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f58c2baa85782ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19071aa442ee970b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nix/Installation on MacOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Installation on MacOS"
+            }
+          },
+          {
+            "id": "3f3024e5d1590a0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nix/Installation on MacOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Installation on MacOS"
+            }
+          },
+          {
+            "id": "e061a5c255ad6393",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a17ac9661cde0bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nix/Installation on MacOS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Installation on MacOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2aab721e398080c5",
+  "lastOpenFiles": [
+    "Machine Learning/Linear Regression/Linear Regression.md",
+    "Index.md",
+    "EXTRACTED_understanding-machine-learning-theory-algorithms copy.pdf",
+    "Untitled.base",
+    "Misc. images/g1.png",
+    "Misc. images/bball.png",
+    "Nix/Servers/Kubernetes.md",
+    "Misc. images",
+    "Nix/Servers/Container_Evolution.svg",
+    "Machine Learning/A glossary of LLM Architectures and acronyms.md",
+    "Machine Learning/Loss/Derivative of MSE (testolimited.com).md",
+    "Machine Learning/Loss",
+    "Machine Learning/Linear Regression",
+    "Untitled/Untitled",
+    "Machine Learning/Logistic Regression.md",
+    "Nix/Nix for MacOs.md",
+    "Machine Learning/Sigmoid-derivation.png",
+    "Shortcuts.md",
+    "Computing glossary.md",
+    "Machine Learning",
+    "Vim",
+    "Pasted image 20250925112143.png",
+    "Pasted image 20250925112135.png",
+    "Nix/Modules.md",
+    "Nix/Servers",
+    "Nix/Flakes.md",
+    "Nix/Untitled",
+    "Nix/Nix Package.md"
+  ]
+}
