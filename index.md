@@ -1,3 +1,3 @@
 # Scott's Digital Garden
 
-A collection of writing and rabbit holes
+A collection of Computing-related notes and rabbit holes

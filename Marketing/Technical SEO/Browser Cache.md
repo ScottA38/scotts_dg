@@ -1,0 +1,3 @@
+When browser cache is configured for a website, the response headers to requests to the Web Server invclude a signal that the browser should store the contents of the response in local memory. 
+
+This is a different mechanism to cookies, store purely textual data (such as unique identifiers for a specific user or ad tracking metadata). Conversely, Browser Caching stores raw HTML content or assets provided by the Web Server ready for re-use when the user interacts with the site controls again.

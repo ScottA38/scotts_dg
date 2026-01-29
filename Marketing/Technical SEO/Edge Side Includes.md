@@ -1,0 +1,1 @@
+The Edge-Side-Includes mechanism helps break down a web page into granular components such that static elements (such as header, footer, nav, etc.) can be cached efficiently for all users, and context-specific components of the page (such as product order details) are deferred to private cached (or even bypass cache - generated on-demand)

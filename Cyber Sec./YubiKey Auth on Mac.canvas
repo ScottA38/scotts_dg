@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"cfd5ddfb4623c82f","type":"text","text":"**Cyber Security**","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"50bc44c23ded5b62","type":"text","text":"gnupg","x":-300,"y":216,"width":250,"height":60,"color":"6"},
+		{"id":"e3369e8ec0ede009","type":"link","url":"https://alexnorell.com/post/set-up-gpg/","x":-600,"y":440,"width":400,"height":400},
+		{"id":"a29c2f0e00874838","type":"text","text":"YubiKey","x":78,"y":141,"width":250,"height":60,"color":"5"},
+		{"id":"015bafba2a5fd0ad","type":"text","text":"Device type: Security Key C NFC","x":480,"y":156,"width":250,"height":60,"color":"6"},
+		{"id":"43c29ef424b0979b","type":"link","url":"https://alexnorell.com/post/set-up-yubikey/","x":523,"y":-400,"width":400,"height":400},
+		{"id":"d141717ea3d4c01d","x":398,"y":440,"width":250,"height":60,"color":"6","type":"text","text":"OpenPGP   =>   Not available "}
+	],
+	"edges":[
+		{"id":"f07dd0a96d5ae03f","fromNode":"cfd5ddfb4623c82f","fromSide":"bottom","toNode":"50bc44c23ded5b62","toSide":"top"},
+		{"id":"acc527268e856a7f","fromNode":"50bc44c23ded5b62","fromSide":"bottom","toNode":"e3369e8ec0ede009","toSide":"top"},
+		{"id":"9fd7b8995c6dfb81","fromNode":"cfd5ddfb4623c82f","fromSide":"bottom","toNode":"a29c2f0e00874838","toSide":"top"},
+		{"id":"eafe469d3d5e831c","fromNode":"a29c2f0e00874838","fromSide":"right","toNode":"015bafba2a5fd0ad","toSide":"left"},
+		{"id":"2d1510a01b243bf1","fromNode":"015bafba2a5fd0ad","fromSide":"bottom","toNode":"d141717ea3d4c01d","toSide":"top"},
+		{"id":"8ee816eca41f2f23","fromNode":"d141717ea3d4c01d","fromSide":"bottom","toNode":"50bc44c23ded5b62","toSide":"right"},
+		{"id":"0207b1dc74d847cf","fromNode":"a29c2f0e00874838","fromSide":"top","toNode":"43c29ef424b0979b","toSide":"left"}
+	]
+}

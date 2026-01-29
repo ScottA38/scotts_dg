@@ -11,44 +11,20 @@
             "id": "1d1129dcb45d16af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Machine Learning/Loss/Derivative of MSE (testolimited.com).md",
-                "mode": "source",
-                "source": false
+                "file": "Marketing/Email Marketing/Email Marketing.canvas",
+                "viewState": {
+                  "x": -547.1692191625136,
+                  "y": -253.74630802101504,
+                  "zoom": -1.103722881966218
+                }
               },
-              "icon": "lucide-file",
-              "title": "Derivative of MSE (testolimited.com)"
-            }
-          },
-          {
-            "id": "5f9f928223a6e1af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "e098ec186e6ce0cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-layout-dashboard",
+              "title": "Email Marketing"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nix/Installation on MacOS.md",
+                "file": "2026-01-19 Beginning business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Installation on MacOS"
+              "title": "Backlinks for 2026-01-19 Beginning business"
             }
           },
           {
@@ -199,35 +175,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "2aab721e398080c5",
+  "active": "1d1129dcb45d16af",
   "lastOpenFiles": [
+    "Machine Learning/understanding-machine-learning-theory-algorithms.pdf",
+    "Marketing/Email Marketing/Email Sender Authority rating.md",
+    "Marketing/Email Marketing/Email Marketing.canvas",
+    "Marketing/Technical SEO/Browser Cache.md",
+    "Marketing/Email Marketing",
+    "Marketing/Technical SEO/Technical SEO.canvas",
+    "Marketing/Technical SEO/What is Caching?.md",
+    "Marketing/Technical SEO/Edge Side Includes.md",
+    "Marketing/Technical SEO/Wordpress/Performance",
+    "Marketing/Technical SEO/Object Cache.md",
+    "Marketing/Technical SEO/So What is Object Caching?.md",
+    "Marketing/Technical SEO/redis-logo.png",
+    "Marketing/Technical SEO/neil-miller_caching.pdf",
+    "2026-01-14 Cleaner's Joy.md",
+    "Marketing/Wordpress",
+    "Marketing/Technical SEO/Untitled.md",
+    "index.md",
+    "Base?.base",
+    "Cyber Sec./YubiKey Auth on Mac.canvas",
+    "Marketing/Technical SEO",
+    "Machine Learning/Loss/Derivative of MSE (testolimited.com).md",
+    "Site Development/Word",
+    "Site Development",
+    "Business",
+    "Vim/Shortcuts.md",
+    "Tools/Create your.md",
+    "Reading/25th Jan '26 - Excerpts from 'Cheryl Currid's Guide to Business Technology'.md",
+    "Tools",
+    "2026-01-19 Beginning business.md",
+    "Marketing/LinkedIn posts/people_also_asked.png.png",
+    "Marketing/LinkedIn posts/PeopleAlsoAsked - Is a Web Developer worth it?.md",
+    "2026-01-16.md",
+    "2026-01-13 Website redesign.md",
+    "Marketing/13_01_26 Wenta 'Get Noticed Online'.md",
+    "2026-01-01 Shrunken Bread.md",
+    "Bukit Lawang.md",
+    "Graphic Design/Lino Printing.md",
+    "ToFu, MoFu & BoFu.md",
+    "Machine Learning/Logistic Regression.md",
+    "Machine Learning/Sigmoid-derivation.png",
+    "Machine Learning/A glossary of LLM Architectures and acronyms.md",
     "Machine Learning/Linear Regression/Linear Regression.md",
-    "Index.md",
-    "EXTRACTED_understanding-machine-learning-theory-algorithms copy.pdf",
-    "Untitled.base",
     "Misc. images/g1.png",
     "Misc. images/bball.png",
-    "Nix/Servers/Kubernetes.md",
-    "Misc. images",
     "Nix/Servers/Container_Evolution.svg",
-    "Machine Learning/A glossary of LLM Architectures and acronyms.md",
-    "Machine Learning/Loss/Derivative of MSE (testolimited.com).md",
-    "Machine Learning/Loss",
-    "Machine Learning/Linear Regression",
-    "Untitled/Untitled",
-    "Machine Learning/Logistic Regression.md",
-    "Nix/Nix for MacOs.md",
-    "Machine Learning/Sigmoid-derivation.png",
-    "Shortcuts.md",
-    "Computing glossary.md",
-    "Machine Learning",
-    "Vim",
     "Pasted image 20250925112143.png",
-    "Pasted image 20250925112135.png",
-    "Nix/Modules.md",
-    "Nix/Servers",
-    "Nix/Flakes.md",
-    "Nix/Untitled",
-    "Nix/Nix Package.md"
+    "Pasted image 20250925112135.png"
   ]
 }

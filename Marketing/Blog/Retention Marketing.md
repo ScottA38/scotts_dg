@@ -1,0 +1,11 @@
+
+- Target Audience: Current Customers
+- Goal: Engaging known people
+- Advantage/s:
+	- Cost effective
+	- Can understand more about a customer
+	- Build consumer trust
+- Success?
+	- Retention rate (?)
+	- Customer Lifetime Value increases
+	- Returning to website (affinity)
