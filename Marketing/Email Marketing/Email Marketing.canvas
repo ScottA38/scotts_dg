@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"aa1589e955be129e","type":"text","text":"**Email Marketing**","x":-125,"y":-30,"width":165,"height":70},
+		{"id":"aa1589e955be129e","type":"text","text":"**E-Mail Delivery**","x":-125,"y":-30,"width":165,"height":70},
 		{"id":"336e7815461d272d","type":"text","text":"Automated Email dispatch services","x":210,"y":-21,"width":170,"height":101},
 		{"id":"e5a8f4467253071f","type":"text","text":"Amazon SES","x":540,"y":-150,"width":250,"height":60},
 		{"id":"e7bbdaec1ed0ac9e","type":"text","text":"MailChimp","x":566,"y":54,"width":250,"height":60},
@@ -10,14 +10,16 @@
 		{"id":"a4535b3f0c493c36","type":"text","text":"Dedicated IPs","x":-85,"y":-560,"width":250,"height":60},
 		{"id":"8ef5308ce5105d3f","type":"text","text":"In order to reduce spam and a","x":441,"y":-590,"width":250,"height":60},
 		{"id":"5ff8a0d4b02c7490","type":"text","text":"Email sender authority","x":-292,"y":-283,"width":250,"height":60,"color":"5"},
-		{"id":"a5934081aaa7c4d9","type":"text","text":"Domain Derank","x":-786,"y":-59,"width":250,"height":60,"color":"2"},
 		{"id":"670ad9d695b9b273","type":"text","text":"Factors","x":-1185,"y":-29,"width":250,"height":60,"color":"4"},
-		{"id":"13d56bc76e0dc7c9","type":"text","text":"Hard Bounces","x":-1243,"y":-273,"width":250,"height":60},
 		{"id":"0e49bff603f63d02","type":"file","file":"Marketing/Email Marketing/Email Sender Authority rating.md","x":-861,"y":-900,"width":400,"height":400},
 		{"id":"9e434f6b5f37fdcb","type":"link","url":"https://mailchimp.com/help/soft-vs-hard-bounces/","x":-1518,"y":-840,"width":400,"height":400},
 		{"id":"812013f4c66ba36e","type":"text","text":"Is 'Domain has been flagged as spam by userbase'?","x":-1643,"y":133,"width":250,"height":60},
 		{"id":"0f9bb14740d0deb3","type":"text","text":"Open Rate","x":-935,"y":253,"width":250,"height":60},
-		{"id":"aa97cd98e81d75e1","type":"text","text":"User Response rate","x":-1243,"y":253,"width":250,"height":60}
+		{"id":"aa97cd98e81d75e1","type":"text","text":"User Response rate","x":-1243,"y":253,"width":250,"height":60},
+		{"id":"06814d22b7c021c2","type":"file","file":"Marketing/Email Marketing/Reasons for Soft bounces on email delivery.md","x":-536,"y":360,"width":400,"height":400},
+		{"id":"af9174afe4b69fcf","type":"text","text":"Bounces\n","x":-242,"y":120,"width":250,"height":60},
+		{"id":"a5934081aaa7c4d9","type":"text","text":"Domain Derank","x":-786,"y":60,"width":250,"height":60,"color":"2"},
+		{"id":"13d56bc76e0dc7c9","type":"text","text":"Hard Bounces","x":-1060,"y":-313,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"95c951aaa885a917","fromNode":"336e7815461d272d","fromSide":"right","toNode":"e5a8f4467253071f","toSide":"left"},
@@ -35,6 +37,9 @@
 		{"id":"3b50c8ed465e8ae6","fromNode":"13d56bc76e0dc7c9","fromSide":"top","toNode":"9e434f6b5f37fdcb","toSide":"bottom"},
 		{"id":"43c42a6c4296082f","fromNode":"670ad9d695b9b273","fromSide":"bottom","toNode":"0f9bb14740d0deb3","toSide":"top"},
 		{"id":"f08281546379fd9d","fromNode":"670ad9d695b9b273","fromSide":"bottom","toNode":"aa97cd98e81d75e1","toSide":"top"},
-		{"id":"bdb3608c2772dfc0","fromNode":"670ad9d695b9b273","fromSide":"bottom","toNode":"812013f4c66ba36e","toSide":"right"}
+		{"id":"bdb3608c2772dfc0","fromNode":"670ad9d695b9b273","fromSide":"bottom","toNode":"812013f4c66ba36e","toSide":"right"},
+		{"id":"91c139500b4701e5","fromNode":"aa1589e955be129e","fromSide":"bottom","toNode":"af9174afe4b69fcf","toSide":"top"},
+		{"id":"2dfb6ce49e0d379d","fromNode":"af9174afe4b69fcf","fromSide":"bottom","toNode":"06814d22b7c021c2","toSide":"top"},
+		{"id":"7b41b612ef5eb885","fromNode":"13d56bc76e0dc7c9","fromSide":"right","toNode":"af9174afe4b69fcf","toSide":"left"}
 	]
 }
