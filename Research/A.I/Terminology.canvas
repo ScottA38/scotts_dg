@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"332f9ed404b644ce","type":"text","text":"**A.I Terminology**","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"dab6da168ac356ee","type":"text","text":"LLM Processes","x":-369,"y":-292,"width":250,"height":60},
+		{"id":"fcb7f68bbbdc7678","type":"text","text":"RAG -> Retrieval Augemented Generation","x":-629,"y":-579,"width":250,"height":60},
+		{"id":"b1d6d5741f616638","type":"text","text":"[RHLF - Reinforcement Learning from Human Feedback](https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/)","x":100,"y":-403,"width":194,"height":111},
+		{"id":"b94676d9516c5dc0","type":"text","text":"RL - Reinforcement learning","x":360,"y":-262,"width":250,"height":60},
+		{"id":"6b9194bc8030749c","type":"text","text":"Integrating Human Feedback into model reward functions","x":220,"y":-596,"width":250,"height":60},
+		{"id":"945f46f370733bca","type":"text","text":"especially good for subject areas where there is a signifiant potential for subjectivity intrinsic to model response","x":-119,"y":-710,"width":250,"height":144},
+		{"id":"890c9bd0761c3e32","type":"text","text":"'think of them like a Univeral encoding system for text' (into numerical characters)","x":-280,"y":-1080,"width":250,"height":84},
+		{"id":"e538f91ea6c2aaee","type":"text","text":"Embedding patterns organise text into designations such that '**similar items are close to each other while dissimilar items are farther apart**'","x":-335,"y":-1360,"width":250,"height":170},
+		{"id":"bd241f78878f682a","type":"text","text":"**Text embeddings** - 'a compressed, abstract representation of text data** where text of arbitrary length can be represented as a fixed-size vector of numbers'","x":-460,"y":-920,"width":250,"height":210},
+		{"id":"e3c7e0dd13a1c14f","type":"text","text":"**A.N.N** - Approximate Nearest Neighbour","x":-660,"y":-1148,"width":180,"height":110},
+		{"id":"057588163f9ec711","type":"text","text":"NB;LM - 'Structure optimise for speed by building partitions over the embedding space so the system can quickly \"zoom in\" on relevant data'","x":-785,"y":-1500,"width":250,"height":177},
+		{"id":"54786684b07caff3","x":-1085,"y":-688,"width":250,"height":60,"type":"text","text":"'Has it's early roots in open-domain Q&A' (meta)"},
+		{"id":"313762ed0c7f8855","x":-1060,"y":-845,"width":250,"height":60,"type":"text","text":"[Meta paper](https://arxiv.org/abs/2005.04611)"}
+	],
+	"edges":[
+		{"id":"be94d3947fb7fd2a","fromNode":"332f9ed404b644ce","fromSide":"top","toNode":"dab6da168ac356ee","toSide":"bottom"},
+		{"id":"aa449cc01b61a82c","fromNode":"dab6da168ac356ee","fromSide":"top","toNode":"fcb7f68bbbdc7678","toSide":"bottom"},
+		{"id":"ac0e32168a3bb895","fromNode":"b1d6d5741f616638","fromSide":"top","toNode":"6b9194bc8030749c","toSide":"bottom"},
+		{"id":"82124a92b2eb44ba","fromNode":"332f9ed404b644ce","fromSide":"top","toNode":"b94676d9516c5dc0","toSide":"bottom"},
+		{"id":"70d8ecc762bde85c","fromNode":"332f9ed404b644ce","fromSide":"top","toNode":"b1d6d5741f616638","toSide":"bottom"},
+		{"id":"8f7d79c044f5b0e0","fromNode":"b1d6d5741f616638","fromSide":"top","toNode":"945f46f370733bca","toSide":"bottom"},
+		{"id":"c27d5199779224a5","fromNode":"fcb7f68bbbdc7678","fromSide":"right","toNode":"bd241f78878f682a","toSide":"bottom"},
+		{"id":"383a61bcd0a8f3f4","fromNode":"bd241f78878f682a","fromSide":"top","toNode":"890c9bd0761c3e32","toSide":"bottom"},
+		{"id":"7a436b5e1ed82d8e","fromNode":"890c9bd0761c3e32","fromSide":"top","toNode":"e538f91ea6c2aaee","toSide":"bottom"},
+		{"id":"e3b1cf15f5504e0b","fromNode":"bd241f78878f682a","fromSide":"top","toNode":"e3c7e0dd13a1c14f","toSide":"bottom"},
+		{"id":"849e6435ac5753d0","fromNode":"e3c7e0dd13a1c14f","fromSide":"top","toNode":"057588163f9ec711","toSide":"bottom"},
+		{"id":"90e0010f8e978891","fromNode":"fcb7f68bbbdc7678","fromSide":"left","toNode":"54786684b07caff3","toSide":"right"},
+		{"id":"841d97e234725cbf","fromNode":"54786684b07caff3","fromSide":"top","toNode":"313762ed0c7f8855","toSide":"bottom"}
+	]
+}

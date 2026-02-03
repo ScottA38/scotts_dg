@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"42a8d53501fcc57c","x":-105,"y":-30,"width":250,"height":60,"type":"text","text":"🦾**NVIM Level ups** 🦾"},
+		{"id":"1013d256e73f606e","x":-400,"y":-300,"width":250,"height":60,"type":"text","text":"[Buffers](https://builtin.com/articles/working-with-buffers-in-vim)"}
+	],
+	"edges":[
+		{"id":"831b7a623ae77cc9","fromNode":"42a8d53501fcc57c","fromSide":"top","toNode":"1013d256e73f606e","toSide":"bottom"}
+	]
+}

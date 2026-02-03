@@ -15,3 +15,5 @@
 - Email message doesn't meet the recipient server’s sender requirements.
 - Email can't be relayed between email servers.
 - Email can't be relayed for unknown reasons.
+
+_credit: [Intuit MailChimp]([https://mailchimp.com/help/soft-vs-hard-bounces/](https://mailchimp.com/help/soft-vs-hard-bounces/)_

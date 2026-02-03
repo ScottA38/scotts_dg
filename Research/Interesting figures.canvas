@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"c1ded4adf6331453","type":"text","text":"**Interesting Characters of History**","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"44e12b7ba173f501","type":"text","text":"Charles Ponzi","x":-330,"y":-222,"width":250,"height":60},
+		{"id":"caa56e1ab28b3182","type":"text","text":"[U.S Postal Museum - Charles Ponzi](https://postalmuseum.si.edu/exhibition/behind-the-badge-case-histories-scams-and-schemes/ponzi-scheme)","x":-535,"y":-542,"width":250,"height":82},
+		{"id":"e398e94d3a838be3","type":"text","text":"Paid investors back with a percentage of the investments from new investors","x":60,"y":-720,"width":250,"height":138},
+		{"id":"4ac384ca33b38992","type":"text","text":"Enacted scheme with post-war financial bonds","x":-125,"y":-340,"width":250,"height":60},
+		{"id":"170d3703a9cba0a3","type":"text","text":"Promised investors 50% returns","x":60,"y":-490,"width":250,"height":60},
+		{"id":"0b75886a0f748599","x":-375,"y":-780,"width":250,"height":121,"type":"text","text":"Publically invited federal audit, which shook public confidence and caused collapse\n"}
+	],
+	"edges":[
+		{"id":"44445e87fc92ae26","fromNode":"c1ded4adf6331453","fromSide":"top","toNode":"44e12b7ba173f501","toSide":"bottom"},
+		{"id":"538802e02821b20f","fromNode":"44e12b7ba173f501","fromSide":"top","toNode":"caa56e1ab28b3182","toSide":"bottom"},
+		{"id":"ecdaf1711e2798cd","fromNode":"170d3703a9cba0a3","fromSide":"top","toNode":"e398e94d3a838be3","toSide":"bottom"},
+		{"id":"8dc43beb6b9a600c","fromNode":"44e12b7ba173f501","fromSide":"top","toNode":"4ac384ca33b38992","toSide":"bottom"},
+		{"id":"5c033524c147e924","fromNode":"4ac384ca33b38992","fromSide":"top","toNode":"170d3703a9cba0a3","toSide":"bottom"},
+		{"id":"2808ac3c9404abfc","fromNode":"e398e94d3a838be3","fromSide":"left","toNode":"0b75886a0f748599","toSide":"right"}
+	]
+}

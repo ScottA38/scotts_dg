@@ -1,0 +1,2 @@
+- **Turn off payment collection/autofill**
+	- Go to `Settings > Autofill and Passwords > Payment methods` and uncheck 'Save and fill payment methods'

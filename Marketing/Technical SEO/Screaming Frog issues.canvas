@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8f4f390cc57c2a85","type":"text","text":"Technical SEO","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"247ffcc5d881ec1b","type":"text","text":"Nofollow","x":-194,"y":-274,"width":250,"height":60},
+		{"id":"ee96e23425621ab0","type":"text","text":"Cross-Site Scripting","x":233,"y":40,"width":250,"height":60},
+		{"id":"3ab63bd88a571d2b","type":"link","url":"https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP","x":520,"y":-474,"width":400,"height":400},
+		{"id":"3a8ed3cb11a00ae8","type":"text","text":"CSP","x":560,"y":140,"width":64,"height":60}
+	],
+	"edges":[
+		{"id":"5641d51be895a407","fromNode":"8f4f390cc57c2a85","fromSide":"top","toNode":"247ffcc5d881ec1b","toSide":"bottom"},
+		{"id":"c4e1230dc53f6d3e","fromNode":"8f4f390cc57c2a85","fromSide":"right","toNode":"ee96e23425621ab0","toSide":"left"},
+		{"id":"8eeab62e3a4053e5","fromNode":"ee96e23425621ab0","fromSide":"right","toNode":"3ab63bd88a571d2b","toSide":"bottom"},
+		{"id":"19e92da9205ae814","fromNode":"ee96e23425621ab0","fromSide":"right","toNode":"3a8ed3cb11a00ae8","toSide":"left"}
+	]
+}

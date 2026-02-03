@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2a6bad56c9405b6f","type":"text","text":"**Data regulation Compliance**","x":-125,"y":-30,"width":250,"height":70},
+		{"id":"dbc13fc33997e359","x":-24,"y":-271,"width":250,"height":60,"color":"5","type":"text","text":"HIPAA"},
+		{"id":"1c99d8a74b4c365a","x":-560,"y":-90,"width":250,"height":60,"color":"4","type":"text","text":"PCI DSS"}
+	],
+	"edges":[
+		{"id":"5b89e582bd98906d","fromNode":"2a6bad56c9405b6f","fromSide":"top","toNode":"dbc13fc33997e359","toSide":"bottom"},
+		{"id":"c7acc4893314a555","fromNode":"2a6bad56c9405b6f","fromSide":"left","toNode":"1c99d8a74b4c365a","toSide":"right"}
+	]
+}
