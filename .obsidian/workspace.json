@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Study Notes.md",
+                "file": "Marketing/Brand Positioning/Long-Tail Marketing Opportunities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Study Notes"
+              "title": "Long-Tail Marketing Opportunities"
             }
           }
         ]
@@ -184,9 +184,20 @@
   },
   "active": "1d1129dcb45d16af",
   "lastOpenFiles": [
-    "Templates/Superscript.md",
+    "test-canvas.canvas",
+    "Marketing/Brand Positioning/Brand Positioning.canvas",
+    "Marketing/Brand Positioning/Long-Tail Marketing Opportunities.md",
+    "Marketing/Brand Positioning/Brand Positioning.md",
+    "Marketing/Brand Positioning",
+    "Personal/2026-02-08 Started Google Skillshop on Analytics.md",
+    "Templates/Daily template.md",
+    "Personal/2026-01-29 Tom Proposal document.md",
+    "Personal/2026-01-19 Beginning business.md",
+    "Personal/2026-01-14 Cleaner's Joy.md",
+    "Personal/2026-01-13 Website redesign.md",
+    "Personal/2026-01-01 Shrunken Bread.md",
     "Templates/Study Notes.md",
-    "Marketing/Technical SEO/Google Analytics/Brand Positioning.md",
+    "Templates/Superscript.md",
     "Untitled.md",
     "Templates",
     "Computing glossary.md",
@@ -219,19 +230,8 @@
     "Machine Learning/A.I/Text Embeddings.md",
     "Machine Learning/A.I/Inherent bias in LLMs/Inherent biases in LLMs.md",
     "Machine Learning/A.I/Inherent bias in LLMs/Eugene Yan - LLM validation patterns.md",
-    "Machine Learning/A.I/A.I tool stack.md",
     "Nix/nvim/NVIM Concepts.canvas",
     "Machine Learning/A.I/Inherent bias in LLMs",
-    "Research/Interesting figures.canvas",
-    "Nix/nvim",
-    "Research/Science/Bertramd Russell - The Impact of Science on Society.md",
-    "Marketing/Technical SEO/Accessibility/`aria-label`.md",
-    "Marketing/Technical SEO/Linking & the infamous `<rel>` property.md",
-    "Food/Reader's Digest - 'Foods that Harm, Foods that Heal'.md",
-    "Marketing/Email Marketing/Email Sender Authority rating.md",
-    "Marketing/Email Marketing/Reasons for Soft bounces on email delivery.md",
-    "Marketing/Technical SEO/Site Performance/Browser Cache.md",
-    "Marketing/Technical SEO/Screaming Frog issues.md",
     "Misc. images/g1.png",
     "Misc. images/g25.png",
     "Misc. images/rhino.svg",

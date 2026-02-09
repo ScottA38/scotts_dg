@@ -1,10 +1,9 @@
 
 ---
-
 draft: false
-1 - Un-mitigated instance of opinionated material in LLM training data
-
 ---
+
+1 - Un-mitigated instance of opinionated material in LLM training data
 
 [Large Language models](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/) (LLMs) are everywhere.
 
