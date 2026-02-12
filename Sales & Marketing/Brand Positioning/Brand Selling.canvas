@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b20c891aba62a6ea","x":400,"y":320,"width":110,"height":84,"type":"text","text":"**Selling**"},
+		{"id":"2db7c940a3576f26","x":-167,"y":210,"width":250,"height":60,"type":"text","text":"Branding"},
+		{"id":"e8eb3b46c0b98db2","type":"file","file":"Sales & Marketing/Brand Positioning/Brand Positioning.md","x":-167,"y":-200,"width":400,"height":216},
+		{"id":"db0e84184680bda4","x":840,"y":16,"width":250,"height":60,"type":"text","text":"Pitching\n"},
+		{"id":"3a46762faaf4dbbd","x":1204,"y":-163,"width":250,"height":60,"type":"text","text":"\"Insight selling\""}
+	],
+	"edges":[
+		{"id":"f67a5211e7e20101","fromNode":"b20c891aba62a6ea","fromSide":"left","toNode":"2db7c940a3576f26","toSide":"right"},
+		{"id":"0700e7d700131071","fromNode":"2db7c940a3576f26","fromSide":"top","toNode":"e8eb3b46c0b98db2","toSide":"bottom"},
+		{"id":"ca3ab9a66587b2a9","fromNode":"b20c891aba62a6ea","fromSide":"right","toNode":"db0e84184680bda4","toSide":"left"},
+		{"id":"d57f5739daaf7796","fromNode":"db0e84184680bda4","fromSide":"right","toNode":"3a46762faaf4dbbd","toSide":"left"}
+	]
+}

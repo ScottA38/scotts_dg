@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"6c96c56a7fe4ffc2","type":"text","text":"**Analytics metrics**","x":-100,"y":-40,"width":250,"height":60},
 		{"id":"a3394e758575e213","type":"text","text":"Webpage 'Stickiness'","x":100,"y":120,"width":250,"height":60},
-		{"id":"cc3e700e8ec0b61b","x":100,"y":340,"width":400,"height":400,"type":"file","file":"Marketing/Technical SEO/DAU-MAU-WAU.md"}
+		{"id":"cc3e700e8ec0b61b","x":100,"y":340,"width":400,"height":400,"type":"file","file":"Sales & Marketing/Technical SEO/Website Analytics/DAU-MAU-WAU.md"}
 	],
 	"edges":[
 		{"id":"73c053ba7ecd184f","fromNode":"6c96c56a7fe4ffc2","fromSide":"bottom","toNode":"a3394e758575e213","toSide":"top"},
