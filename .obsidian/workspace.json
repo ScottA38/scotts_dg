@@ -4,24 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "1530f12eae457a4f",
+        "id": "ffb8fe551fd73ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc2e410b9b83bcd8",
+            "id": "e81d39cae1f543c0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "Marketing/Technical SEO/Accessibility/`aria-label`.md",
-                "bFile": "Marketing/Technical SEO/Accessibility/`aria-label`.md",
-                "aRef": ""
+                "file": "Sales & Marketing/Email Marketing/Email Marketing.canvas",
+                "viewState": {
+                  "x": 228,
+                  "y": 180,
+                  "zoom": -2.436844933570057
+                }
               },
-              "icon": "diff",
-              "title": "Diff: `aria-label`  (Working Tree)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Email Marketing"
+            }
+          },
+          {
+            "id": "54f797098535c2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sales & Marketing/Email Marketing/Domain Authority/DMARC - Domain-based Message Authentication Reporting and Conformance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DMARC - Domain-based Message Authentication Reporting and Conformance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cher",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,31 +212,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc2e410b9b83bcd8",
+  "active": "54f797098535c2b4",
   "lastOpenFiles": [
-    "Research/25th Jan '26 - Excerpts from 'Cheryl Currid's Guide to Business Technology'.md",
-    "Research/Portfolio Site/Visuals/Charles Wang - charleszw.com.md",
-    "Sales & Marketing/Email Marketing/Urchin software/Urchin Software.md",
-    "Sales & Marketing/Email Marketing/Untitled.md",
-    "Sales & Marketing/Email Marketing/Urchin software",
+    "Sales & Marketing/Email Marketing/Domain Authority/Domain name spoofing.md",
+    "Sales & Marketing/Email Marketing/Domain Authority/DMARC - Domain-based Message Authentication Reporting and Conformance.md",
+    "Sales & Marketing/Email Marketing/Domain Authority/DKIM - 'Domain Keys Identified Mail'.md",
     "Sales & Marketing/Email Marketing/Email Marketing.canvas",
+    "Sales & Marketing/Technical SEO/Web Servers.canvas",
+    "Sales & Marketing/Technical SEO/Site Performance/Site Performance.canvas",
+    "Sales & Marketing/Email Marketing/Domain Authority/SPF - Sender Policy Framework.md",
+    "Sales & Marketing/Email Marketing/Domain Authority",
+    "Templates/Superscript.md",
+    "Templates/Untitled.md",
+    "Sales & Marketing/Brand Positioning/Long-Tail Marketing Opportunities.md",
+    "Sales & Marketing/Technical SEO/Website Analytics/Analytics Terms.canvas",
+    "Sales & Marketing/Email Marketing/Urchin software/Urchin Software.md",
+    "Research/25th Jan '26 - Excerpts from 'Cheryl Currid's Guide to Business Technology'.md",
+    "Sales & Marketing/Blog/Cheryl Currid's guide to Business Technology.md",
+    "Research/Portfolio Site/Visuals/Charles Wang - charleszw.com.md",
+    "Sales & Marketing/Email Marketing/Urchin software",
     "Sales & Marketing/Email Marketing/Urchin_software_team.png",
     "Sales & Marketing/Email Marketing/Urchin_software_team.pdf",
     "Sales & Marketing/Email Marketing/UTM campaign parameter construction.png",
     "u.md",
     "Sales & Marketing/Brand Positioning/Brand Selling.canvas",
     "Sales & Marketing/Technical SEO/Accessibility/WCAG.canvas",
-    "Sales & Marketing/Technical SEO/Site Performance/Site Performance.canvas",
     "Sales & Marketing/Technical SEO/Site Content Security Policy.md",
-    "Sales & Marketing/Technical SEO/Web Servers.canvas",
     "Sales & Marketing/Technical SEO/Screaming Frog issues.canvas",
-    "Sales & Marketing/Technical SEO/Website Analytics/Analytics Terms.canvas",
     "Sales & Marketing/Technical SEO/Linking & the infamous `<rel>` property.md",
     "Sales & Marketing/Technical SEO/Website Analytics/DAU-MAU-WAU.md",
     "Marketing/Technical SEO/Sales Letter/PageSpeed Optimization Plan for Blackwater Sign & Print (_generated by Claude.ai_).md",
     "Sales & Marketing/Technical SEO/Website Analytics/Skillshop learnings.canvas",
     "Research/Portfolio Site/Visuals/homepage_screenshot.png",
-    "Sales & Marketing/Brand Positioning/Long-Tail Marketing Opportunities.md",
     "Research/Portfolio Site/Visuals",
     "Research/Portfolio Site",
     "test-canvas.canvas",
@@ -221,21 +257,14 @@
     "Personal/2026-01-13 Website redesign.md",
     "Personal/2026-01-01 Shrunken Bread.md",
     "Templates/Study Notes.md",
-    "Templates/Superscript.md",
     "Untitled.md",
     "Templates",
-    "Computing glossary.md",
-    "Sales & Marketing/Technical SEO/Website Analytics/Skillshop.md",
-    "Music/Music theory/Reading sheet music.md",
     "Music/Music theory/detail_diagram.png",
     "Music/Music theory",
     "Music",
     "Untitled.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/path_exploration.png",
     "Sales & Marketing/Technical SEO/Website Analytics",
-    "Sales & Marketing/Technical SEO/Site Performance/Server Proxies.md",
-    "Sales & Marketing/ToFu, MoFu & BoFu.md",
-    "Marketing/Technical SEO/Sales Letter",
     "Misc. images/g1.png",
     "Misc. images/g25.png",
     "Misc. images/rhino.svg",

@@ -5,8 +5,6 @@
 		{"id":"e5a8f4467253071f","type":"text","text":"Amazon SES","x":540,"y":-150,"width":250,"height":60},
 		{"id":"e7bbdaec1ed0ac9e","type":"text","text":"MailChimp","x":566,"y":54,"width":250,"height":60},
 		{"id":"95000ad1e1264295","type":"text","text":"Docs","x":940,"y":-223,"width":250,"height":60},
-		{"id":"a4535b3f0c493c36","type":"text","text":"Dedicated IPs","x":-85,"y":-560,"width":250,"height":60},
-		{"id":"8ef5308ce5105d3f","type":"text","text":"In order to reduce spam and a","x":441,"y":-590,"width":250,"height":60},
 		{"id":"5ff8a0d4b02c7490","type":"text","text":"Email sender authority","x":-292,"y":-283,"width":250,"height":60,"color":"5"},
 		{"id":"812013f4c66ba36e","type":"text","text":"Is 'Domain has been flagged as spam by userbase'?","x":-1643,"y":133,"width":250,"height":60},
 		{"id":"0f9bb14740d0deb3","type":"text","text":"Open Rate","x":-935,"y":253,"width":250,"height":60},
@@ -26,7 +24,13 @@
 		{"id":"9e11fd3721fcc19e","type":"file","file":"Sales & Marketing/Email Marketing/UTM campaign parameter construction.png","x":-125,"y":880,"width":400,"height":160},
 		{"id":"159093a1cac72607","type":"text","text":"Gaining insights into email interactions via [UTM Tracking](https://web.utm.io/blog/utm-email-tracking/)","x":-50,"y":600,"width":250,"height":92,"color":"3"},
 		{"id":"e76e82242468116b","type":"text","text":"UTM tracking originally developed by Urchin\n","x":-638,"y":614,"width":250,"height":78},
-		{"id":"10a9959ab9a08416","type":"file","file":"Sales & Marketing/Email Marketing/Urchin_software_team.png","x":-838,"y":1000,"width":400,"height":280}
+		{"id":"235128177e037d2e","type":"file","file":"Sales & Marketing/Email Marketing/Urchin software/Urchin Software.md","x":-1010,"y":840,"width":400,"height":400},
+		{"id":"10a9959ab9a08416","type":"file","file":"Sales & Marketing/Email Marketing/Urchin_software_team.png","x":-513,"y":1240,"width":400,"height":280},
+		{"id":"61c3192d4a4d554c","type":"text","text":"Server records setup","x":220,"y":-282,"width":250,"height":60},
+		{"id":"a4535b3f0c493c36","type":"text","text":"Dedicated IPs","x":-292,"y":-650,"width":250,"height":60},
+		{"id":"5c6db78e7d8c7309","type":"file","file":"Sales & Marketing/Email Marketing/Domain Authority/DKIM - 'Domain Keys Identified Mail'.md","x":-180,"y":-1160,"width":400,"height":400},
+		{"id":"af45ec15346956bf","type":"file","file":"Sales & Marketing/Email Marketing/Domain Authority/SPF - Sender Policy Framework.md","x":295,"y":-1050,"width":400,"height":400},
+		{"id":"8ef5308ce5105d3f","type":"text","text":"In order to reduce spam and a","x":940,"y":-620,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"95c951aaa885a917","fromNode":"336e7815461d272d","fromSide":"right","toNode":"e5a8f4467253071f","toSide":"left"},
@@ -52,6 +56,12 @@
 		{"id":"047ec4d9cbddd94f","fromNode":"aa1589e955be129e","fromSide":"bottom","toNode":"fa272e2b2bd5cb6f","toSide":"top"},
 		{"id":"90d2f7ceed4b52ec","fromNode":"fa272e2b2bd5cb6f","fromSide":"bottom","toNode":"159093a1cac72607","toSide":"top"},
 		{"id":"e192923ac6a3131e","fromNode":"159093a1cac72607","fromSide":"bottom","toNode":"9e11fd3721fcc19e","toSide":"top"},
-		{"id":"5ce718e81732fd89","fromNode":"159093a1cac72607","fromSide":"left","toNode":"e76e82242468116b","toSide":"right"}
+		{"id":"5ce718e81732fd89","fromNode":"159093a1cac72607","fromSide":"left","toNode":"e76e82242468116b","toSide":"right"},
+		{"id":"3b7da6077f5cc90e","fromNode":"e76e82242468116b","fromSide":"bottom","toNode":"235128177e037d2e","toSide":"top"},
+		{"id":"bab33d5c2ba2646c","fromNode":"235128177e037d2e","fromSide":"right","toNode":"10a9959ab9a08416","toSide":"top"},
+		{"id":"bb80edb33e0037e0","fromNode":"336e7815461d272d","fromSide":"top","toNode":"61c3192d4a4d554c","toSide":"bottom"},
+		{"id":"4e8a4eb3606c814f","fromNode":"61c3192d4a4d554c","fromSide":"top","toNode":"5c6db78e7d8c7309","toSide":"bottom"},
+		{"id":"07d58bf899924ded","fromNode":"5ff8a0d4b02c7490","fromSide":"right","toNode":"61c3192d4a4d554c","toSide":"left"},
+		{"id":"7961c7ace6ccb716","fromNode":"61c3192d4a4d554c","fromSide":"top","toNode":"af45ec15346956bf","toSide":"bottom"}
 	]
 }

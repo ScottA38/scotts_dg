@@ -2,10 +2,18 @@
 	"nodes":[
 		{"id":"6c96c56a7fe4ffc2","type":"text","text":"**Analytics metrics**","x":-100,"y":-40,"width":250,"height":60},
 		{"id":"a3394e758575e213","type":"text","text":"Webpage 'Stickiness'","x":100,"y":120,"width":250,"height":60},
-		{"id":"cc3e700e8ec0b61b","x":100,"y":340,"width":400,"height":400,"type":"file","file":"Sales & Marketing/Technical SEO/Website Analytics/DAU-MAU-WAU.md"}
+		{"id":"cc3e700e8ec0b61b","type":"file","file":"Sales & Marketing/Technical SEO/Website Analytics/DAU-MAU-WAU.md","x":100,"y":340,"width":400,"height":400},
+		{"id":"621cd71618a06c4f","type":"text","text":"Google Business Profile","x":-634,"y":-44,"width":250,"height":60},
+		{"id":"04e19d762774d866","type":"text","text":"Alignment","x":-714,"y":-270,"width":114,"height":50},
+		{"id":"3fdda299485bd9de","type":"text","text":"NAP data - \"Name, Address and Phone Number\"","x":-830,"y":-444,"width":250,"height":60},
+		{"id":"cafda11bd525dc1e","x":-145,"y":-312,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"73c053ba7ecd184f","fromNode":"6c96c56a7fe4ffc2","fromSide":"bottom","toNode":"a3394e758575e213","toSide":"top"},
-		{"id":"3e2b13326c2f7af6","fromNode":"a3394e758575e213","fromSide":"bottom","toNode":"cc3e700e8ec0b61b","toSide":"top"}
+		{"id":"3e2b13326c2f7af6","fromNode":"a3394e758575e213","fromSide":"bottom","toNode":"cc3e700e8ec0b61b","toSide":"top"},
+		{"id":"be46b079c5232c12","fromNode":"6c96c56a7fe4ffc2","fromSide":"left","toNode":"621cd71618a06c4f","toSide":"right"},
+		{"id":"b295154c61c284a2","fromNode":"621cd71618a06c4f","fromSide":"top","toNode":"04e19d762774d866","toSide":"bottom"},
+		{"id":"8dc38173377dfe35","fromNode":"04e19d762774d866","fromSide":"top","toNode":"3fdda299485bd9de","toSide":"bottom"},
+		{"id":"1e079d667e6a3679","fromNode":"6c96c56a7fe4ffc2","fromSide":"top","toNode":"cafda11bd525dc1e","toSide":"bottom"}
 	]
 }
