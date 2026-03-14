@@ -1,0 +1,3 @@
+- insurgent - A person who revolts against civil authority or civil government
+- incumbent - One that occupies a particular position or place
+- 

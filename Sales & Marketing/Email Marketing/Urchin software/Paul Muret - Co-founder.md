@@ -1,0 +1,7 @@
+- [Li](https://www.linkedin.com/in/paulmuret/)
+- Co-founder of [[Urchin Software]]
+- Stood as CEO @ Urchin
+- VP of Product and Engineering @ Google until 2024
+- Led Video, App & Display Ads @ Google until 2024
+	- Inc. 'Google Display Network'
+	- Inc. ''

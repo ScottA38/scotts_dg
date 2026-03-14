@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"8fe5ed577d990ad1","type":"file","file":"Sales & Marketing/Technical SEO/Website Analytics/GA4 - \"Key Events\".md","x":-325,"y":-934,"width":400,"height":400},
+		{"id":"6c96c56a7fe4ffc2","type":"text","text":"**Analytics metrics**","x":-100,"y":-40,"width":250,"height":60,"color":"3"},
+		{"id":"a3394e758575e213","type":"text","text":"Webpage 'Stickiness'","x":100,"y":120,"width":250,"height":60,"color":"1"},
+		{"id":"cc3e700e8ec0b61b","type":"file","file":"Sales & Marketing/Technical SEO/Website Analytics/DAU-MAU-WAU.md","x":100,"y":340,"width":400,"height":400},
+		{"id":"621cd71618a06c4f","type":"text","text":"Google Business Profile","x":-634,"y":-44,"width":250,"height":60,"color":"#002aff"},
+		{"id":"04e19d762774d866","type":"text","text":"Alignment","x":-714,"y":-270,"width":114,"height":50,"color":"2"},
+		{"id":"3fdda299485bd9de","type":"text","text":"NAP data - \"Name, Address and Phone Number\"","x":-830,"y":-444,"width":250,"height":60},
+		{"id":"cafda11bd525dc1e","type":"text","text":"\"Key Events\"","x":-145,"y":-312,"width":250,"height":60,"color":"4"},
+		{"id":"edbaedff6c0d7f47","type":"text","text":"**Legal**","x":691,"y":-199,"width":250,"height":60,"color":"2"},
+		{"id":"300490578e57962e","type":"text","text":"[Keepabl: 'Is Google Analytics illegal in the UK and  EU?'](https://keepabl.com/news/is-google-analytics-illegal-uk-eu/)","x":689,"y":-620,"width":250,"height":112,"color":"3"},
+		{"id":"43cc24c106723069","type":"text","text":"[Schrems II ruling - International data flow outside of the EUI](https://www.nortonrosefulbright.com/en/knowledge/publications/ad5f304c/schrems-ii-landmark-ruling-a-detailed-analysis)","x":1119,"y":-626,"width":250,"height":85,"color":"4"},
+		{"id":"ede5e6cea2cc6e6c","type":"text","text":"[SCC - 'Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)","x":1520,"y":-638,"width":250,"height":55},
+		{"id":"bc3d3df36162cdc3","type":"text","text":"['UserCentrics' detailng the rulings of various EU member states r.e: GA GDPR compliance](https://usercentrics.com/knowledge-hub/google-analytics-and-gdpr-compliance-rulings/)","x":481,"y":-980,"width":250,"height":127}
+	],
+	"edges":[
+		{"id":"73c053ba7ecd184f","fromNode":"6c96c56a7fe4ffc2","fromSide":"bottom","toNode":"a3394e758575e213","toSide":"top"},
+		{"id":"3e2b13326c2f7af6","fromNode":"a3394e758575e213","fromSide":"bottom","toNode":"cc3e700e8ec0b61b","toSide":"top"},
+		{"id":"be46b079c5232c12","fromNode":"6c96c56a7fe4ffc2","fromSide":"left","toNode":"621cd71618a06c4f","toSide":"right"},
+		{"id":"b295154c61c284a2","fromNode":"621cd71618a06c4f","fromSide":"top","toNode":"04e19d762774d866","toSide":"bottom"},
+		{"id":"8dc38173377dfe35","fromNode":"04e19d762774d866","fromSide":"top","toNode":"3fdda299485bd9de","toSide":"bottom"},
+		{"id":"1e079d667e6a3679","fromNode":"6c96c56a7fe4ffc2","fromSide":"top","toNode":"cafda11bd525dc1e","toSide":"bottom"},
+		{"id":"8e1635a765bfeb64","fromNode":"cafda11bd525dc1e","fromSide":"top","toNode":"8fe5ed577d990ad1","toSide":"bottom"},
+		{"id":"181029f3db1c7f88","fromNode":"6c96c56a7fe4ffc2","fromSide":"right","toNode":"edbaedff6c0d7f47","toSide":"left"},
+		{"id":"fe7a06419e08881b","fromNode":"edbaedff6c0d7f47","fromSide":"top","toNode":"300490578e57962e","toSide":"bottom"},
+		{"id":"5d4717b8cc8a881c","fromNode":"300490578e57962e","fromSide":"right","toNode":"43cc24c106723069","toSide":"left"},
+		{"id":"851c8cdde4dd84c5","fromNode":"43cc24c106723069","fromSide":"right","toNode":"ede5e6cea2cc6e6c","toSide":"left"},
+		{"id":"b7f31f1981476496","fromNode":"300490578e57962e","fromSide":"top","toNode":"bc3d3df36162cdc3","toSide":"bottom"}
+	]
+}

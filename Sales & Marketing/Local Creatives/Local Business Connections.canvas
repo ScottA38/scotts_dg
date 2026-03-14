@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d76e959ae30237f1","type":"text","text":"**My local business connections** ","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"e533697777c1d2b7","type":"text","text":"[Halo Creative Media ~ Judith Barretto Punwani](https://halocreativemedia.co.uk/about-halo-creative-media/)","x":-542,"y":21,"width":250,"height":60},
+		{"id":"2fd646df22af0062","type":"file","file":"Sales & Marketing/Local Creatives/Halo Creative About.png","x":-487,"y":211,"width":400,"height":213},
+		{"id":"14a8ed764f2524dd","type":"text","text":"[Neil Miller ~ PIE Code](neilpie.co.uk)","x":-7,"y":127,"width":250,"height":60},
+		{"id":"b19aa656cdf5213e","type":"text","text":"\"Computer Programmer, Visionary Philosopher, Terminal PokeDad\"","x":-6,"y":281,"width":250,"height":85},
+		{"id":"28f438e1ee63598c","type":"text","text":"[Andy ~ Southend Tech](southendtech.co.uk)","x":342,"y":12,"width":250,"height":60},
+		{"id":"d316a9452df1bb46","type":"file","file":"Sales & Marketing/Local Creatives/SETech_NIK_6363.jpg","x":835,"y":269,"width":400,"height":265},
+		{"id":"8c90ae00f395b624","type":"text","text":"[Richard Ingham ~ Navigation Web]()","x":-194,"y":-247,"width":250,"height":60},
+		{"id":"4e2e61908f1967ce","x":-394,"y":-540,"width":400,"height":235,"type":"file","file":"Sales & Marketing/Local Creatives/navigation-web.png.png"}
+	],
+	"edges":[
+		{"id":"300e758dd4bc395a","fromNode":"d76e959ae30237f1","fromSide":"left","toNode":"e533697777c1d2b7","toSide":"right"},
+		{"id":"53ad4fd5d90ce61a","fromNode":"e533697777c1d2b7","fromSide":"bottom","toNode":"2fd646df22af0062","toSide":"top"},
+		{"id":"8bca307d7ad934a8","fromNode":"d76e959ae30237f1","fromSide":"bottom","toNode":"14a8ed764f2524dd","toSide":"top"},
+		{"id":"e28d1607dcde27a3","fromNode":"14a8ed764f2524dd","fromSide":"bottom","toNode":"b19aa656cdf5213e","toSide":"top"},
+		{"id":"35400a761fa52d29","fromNode":"d76e959ae30237f1","fromSide":"right","toNode":"28f438e1ee63598c","toSide":"left"},
+		{"id":"83873236561f72a7","fromNode":"d316a9452df1bb46","fromSide":"left","toNode":"28f438e1ee63598c","toSide":"right"},
+		{"id":"53062a74c428f72f","fromNode":"d76e959ae30237f1","fromSide":"top","toNode":"8c90ae00f395b624","toSide":"bottom"}
+	]
+}

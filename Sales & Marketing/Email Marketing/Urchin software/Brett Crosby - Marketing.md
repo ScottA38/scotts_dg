@@ -1,0 +1,10 @@
+- VP of marketing @ Urchin
+- Member of board @ Urchin
+- Director of Product Marketing @ Google (post-acquisition)
+	- Left in 2014
+- Helped launch different Google products (post-acquisition)
+	- Google+
+	- Google Mobile Ads
+	- Google Local Ads
+	- [Google Drive](drive.google.comj)
+- Left to co-found 'Peer-Street'
