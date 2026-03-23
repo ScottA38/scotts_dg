@@ -11,13 +11,52 @@
             "id": "4da86f9e82d72577",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Maths/Convert Hex to Decimal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Convert Hex to Decimal"
+            }
+          },
+          {
+            "id": "34d14b07d1d7cad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Maths/Convert Hex to Decimal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Convert Hex to Decimal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "empower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +219,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4da86f9e82d72577",
+  "active": "34d14b07d1d7cad2",
   "lastOpenFiles": [
+    "Machine Learning/Maths/conversion_table.png",
+    "Tools/Create your.md",
+    "Machine Learning/Maths/Convert Hex to Decimal.md",
+    "Machine Learning/Maths",
+    "Sales & Marketing/LinkedIn posts/PeopleAlsoAsked - Is a Web Developer worth it?.md",
+    "u.md",
+    "Tools/Anki - a productivity hack highlight.md",
+    "Computing/Web Dev/Wordpress/Untitled.canvas",
+    "Computing",
+    "Research/Untitled",
+    "Computing/Web Dev/Wordpress/wp-logo.png",
+    "Web Dev/Wordpress/wordpress-logo-png-transparent-background-11662328818phjnn8ii0q.duckload",
+    "Computing/Web Dev/Wordpress/WP-Cli - the power of WP-Profile.md",
+    "Web Dev/Wordpress/bootstrap_stage_highlight-wpcli.png",
+    "Computing/Cyber Sec./YubiKey Auth on Mac.canvas",
+    "Computing/Web Dev/Wordpress",
+    "Computing/Web Dev",
+    "Computing/Cyber Sec./Data Regulaton Compliance/Data Regulations Compliance.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/ToFu, MoFu & BoFu.md",
     "Sales & Marketing/Technical SEO/Website Analytics/Google Analytics Fundamentals.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/GA4 - \"Key Events\".md",
@@ -205,37 +262,20 @@
     "Language",
     "Discourse/Attention?.md",
     "Discourse",
-    "Cyber Sec./SR00129358_IPO_CNIPA_25_pamphlet_soft_copy-ODT.odt",
-    "Buddhism/Vajrayana/Well-known Vajrayana Teachers.md",
-    "Buddhism/Vajrayana",
-    "Buddhism/Jhana.md",
-    "Buddhism",
+    "Discourse/Buddhism/Vajrayana/Well-known Vajrayana Teachers.md",
+    "Discourse/Buddhism/Jhana.md",
     "Sales & Marketing/Email Marketing/Domain Authority/SPF - Sender Policy Framework.md",
     "Sales & Marketing/Email Marketing/Domain Authority/Domain name spoofing.md",
     "Sales & Marketing/Email Marketing/Domain Authority/DMARC - Domain-based Message Authentication Reporting and Conformance.md",
     "Sales & Marketing/Email Marketing/Domain Authority/DKIM - 'Domain Keys Identified Mail'.md",
-    "Sales & Marketing/Email Marketing/Domain Authority",
-    "u.md",
-    "Sales & Marketing/ToFu, MoFu & BoFu.md",
     "Sales & Marketing/Technical SEO/Website Analytics/Analytics Terms.canvas",
-    "Sales & Marketing/Technical SEO/Linking & the infamous `<rel>` property.md",
-    "Sales & Marketing/Email Marketing/Reasons for Soft bounces on email delivery.md",
-    "Sales & Marketing/Email Marketing/Email Sender Authority rating.md",
-    "Personal/2026-03-07 Rangjung Yeshe Gomde  Institute, Austria (day *6).md",
     "Sales & Marketing/Technical SEO/Website Analytics/Skillshop learnings.canvas",
     "Sales & Marketing/Technical SEO/Site Performance/Site Performance.canvas",
     "Sales & Marketing/Email Marketing/Email Marketing.canvas",
     "Sales & Marketing/Technical SEO/Web Servers.canvas",
-    "Sales & Marketing/Technical SEO/Screaming Frog issues.canvas",
-    "Sales & Marketing/Email Marketing/Urchin software",
     "Sales & Marketing/Email Marketing/Urchin_software_team.png",
-    "Sales & Marketing/Email Marketing/Urchin_software_team.pdf",
     "Sales & Marketing/Email Marketing/UTM campaign parameter construction.png",
-    "Sales & Marketing/Brand Positioning/Brand Selling.canvas",
-    "Sales & Marketing/Technical SEO/Accessibility/WCAG.canvas",
-    "Research/Portfolio Site/Visuals/homepage_screenshot.png",
-    "Music/Music theory/detail_diagram.png",
-    "Sales & Marketing/Technical SEO/Website Analytics/path_exploration.png",
-    "Misc. images/g1.png"
+    "Research/Portfolio Inspo/Visuals/homepage_screenshot.png",
+    "Music/Music theory/detail_diagram.png"
   ]
 }

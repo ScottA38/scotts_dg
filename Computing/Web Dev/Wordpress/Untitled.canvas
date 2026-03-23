@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"a785c7b299eafbfd","type":"file","file":"Computing/Web Dev/Wordpress/wp-logo.png","x":-120,"y":-100,"width":160,"height":164},
+		{"id":"908f27a07e8be220","x":182,"y":-60,"width":90,"height":60,"color":"5","type":"text","text":"**Plugins**"},
+		{"id":"3d65ab46a5a61929","x":207,"y":-243,"width":186,"height":60,"color":"6","type":"text","text":"['Must-Use' plugins](https://developer.wordpress.org/advanced-administration/plugins/mu-plugins/)"},
+		{"id":"3a7858b78f6f869a","x":334,"y":-437,"width":286,"height":60,"type":"text","text":"found @ `wp-content/mu-plugins`"},
+		{"id":"235c98ccbd2f8b25","x":350,"y":-620,"width":250,"height":85,"type":"text","text":"MU Plugin directory can be altered via `WPMU_PLUGIN_DIR` ENV var."},
+		{"id":"e9b0529f39136f6b","x":-13,"y":-502,"width":250,"height":115,"type":"text","text":"Wordpress mechanisms load plugin files via alpabetical selection ( based upon file name?? )"},
+		{"id":"45f3453d76e8b917","x":680,"y":-480,"width":250,"height":113,"type":"text","text":"WP does not run plugin activation hooks for folders/files found in the `mu-plugins` dir"},
+		{"id":"7858eded256d538b","x":495,"y":-268,"width":250,"height":85,"type":"text","text":"MU Plugins do not notify r.e updates in typical WP-Admin screen"},
+		{"id":"3b31bdbcc2bc72e9","x":860,"y":-296,"width":250,"height":226,"type":"text","text":"> \"The _mu-plugins_ directory was originally implemented by WPMU (Multi-User) to offer site admins an easy way to activate plugins by default on all blogs in the farm\""}
+	],
+	"edges":[
+		{"id":"08fbc3fcb1d487f2","fromNode":"a785c7b299eafbfd","fromSide":"right","toNode":"908f27a07e8be220","toSide":"left"},
+		{"id":"5abad6d080c9c8c4","fromNode":"908f27a07e8be220","fromSide":"top","toNode":"3d65ab46a5a61929","toSide":"bottom"},
+		{"id":"b8ebb53bb3f0d84e","fromNode":"3d65ab46a5a61929","fromSide":"top","toNode":"3a7858b78f6f869a","toSide":"bottom"},
+		{"id":"be9cbde43657e1f2","fromNode":"3a7858b78f6f869a","fromSide":"top","toNode":"235c98ccbd2f8b25","toSide":"bottom"},
+		{"id":"791ffedeceed664d","fromNode":"3d65ab46a5a61929","fromSide":"left","toNode":"e9b0529f39136f6b","toSide":"bottom"},
+		{"id":"55f373159f2dc159","fromNode":"3d65ab46a5a61929","fromSide":"right","toNode":"7858eded256d538b","toSide":"left"},
+		{"id":"c935850edd54d42f","fromNode":"3a7858b78f6f869a","fromSide":"right","toNode":"45f3453d76e8b917","toSide":"left"},
+		{"id":"8653f9db0cd832ba","fromNode":"7858eded256d538b","fromSide":"right","toNode":"3b31bdbcc2bc72e9","toSide":"left"}
+	]
+}
