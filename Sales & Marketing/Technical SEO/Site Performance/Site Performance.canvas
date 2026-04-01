@@ -15,7 +15,7 @@
 		{"id":"4bc4470f50d5b35e","type":"text","text":"Static Assets","x":-47,"y":179,"width":167,"height":50,"color":"#8e2525"},
 		{"id":"fe52a244e3ccd55d","type":"text","text":"Bundling","x":226,"y":154,"width":250,"height":60,"color":"#a3a50d"},
 		{"id":"eedd28c5997294f2","type":"text","text":"JS/CSS bundling *not common practise*","x":80,"y":424,"width":250,"height":60},
-		{"id":"41f0907e20bc901d","type":"link","url":"https://docs.litespeedtech.com/lscache/lscwp/ts-optimize/#disk-space-filling-fast","x":836,"y":291,"width":400,"height":400},
+		{"id":"41f0907e20bc901d","type":"link","url":"https://docs.litespeedtech.com/lscache/lscwp/ts-optimize/#disk-space-filling-fast","x":836,"y":291,"width":400,"height":669},
 		{"id":"2c44af58851eeb3e","type":"text","text":"LSCache","x":635,"y":154,"width":250,"height":50},
 		{"id":"d8acd80f1854c199","type":"file","file":"Sales & Marketing/Technical SEO/Site Performance/What is Caching?.md","x":-1160,"y":-720,"width":400,"height":230},
 		{"id":"bffec05dab8b0b90","type":"file","file":"Sales & Marketing/Technical SEO/Site Performance/Object Cache.md","x":-1248,"y":-405,"width":400,"height":267},

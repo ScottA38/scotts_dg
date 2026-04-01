@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Maths/Convert Hex to Decimal.md",
+                "file": "Computing/Events/2026 Essex Computing events.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Convert Hex to Decimal"
+              "title": "2026 Essex Computing events"
             }
           }
         ],
@@ -221,9 +221,21 @@
   },
   "active": "34d14b07d1d7cad2",
   "lastOpenFiles": [
+    "Computing/Events/Untitled.canvas",
+    "Computing/Events/2026 Essex Computing events.md",
+    "Sales & Marketing/Technical SEO/Website Analytics/Skillshop learnings.canvas",
+    "Computing/Events",
+    "Sales & Marketing/Technical SEO/Site Performance/Site Performance.canvas",
+    "Sales & Marketing/Technical SEO/Website Analytics/Google Analytics Fundamentals.canvas",
+    "Food/Safety/Phtalates.md",
+    "Art/Visual Art/Tribal/Visions of Kamala Ibrahim Ishag.md",
+    "Food/Safety",
+    "Machine Learning/Maths/Convert Hex to Decimal.md",
+    "Art/Visual Art/Tribal",
+    "Art/Visual Art",
+    "Art",
     "Machine Learning/Maths/conversion_table.png",
     "Tools/Create your.md",
-    "Machine Learning/Maths/Convert Hex to Decimal.md",
     "Machine Learning/Maths",
     "Sales & Marketing/LinkedIn posts/PeopleAlsoAsked - Is a Web Developer worth it?.md",
     "u.md",
@@ -237,17 +249,14 @@
     "Web Dev/Wordpress/bootstrap_stage_highlight-wpcli.png",
     "Computing/Cyber Sec./YubiKey Auth on Mac.canvas",
     "Computing/Web Dev/Wordpress",
-    "Computing/Web Dev",
     "Computing/Cyber Sec./Data Regulaton Compliance/Data Regulations Compliance.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/ToFu, MoFu & BoFu.md",
-    "Sales & Marketing/Technical SEO/Website Analytics/Google Analytics Fundamentals.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/GA4 - \"Key Events\".md",
     "Sales & Marketing/Technical SEO/The infamous `<rel>` property.md",
     "Sales & Marketing/Local Creatives/navigation-web.png.png",
     "Sales & Marketing/Local Creatives/SETech_NIK_6363.jpg",
     "Sales & Marketing/Local Creatives/Local Business Connections.canvas",
     "Sales & Marketing/Local Creatives/Halo Creative About.png",
-    "Sales & Marketing/Local Creatives",
     "Sales & Marketing/Email Marketing/Urchin software/urchin-blue-doodle.jpeg",
     "Sales & Marketing/Email Marketing/Urchin software/Scott Crosby - Founder.md",
     "Sales & Marketing/Email Marketing/Urchin software/Paul Muret - Co-founder.md",
@@ -256,26 +265,16 @@
     "Sales & Marketing/Email Marketing/Email HTML code composition.md",
     "Sales & Marketing/Email Marketing/Domain Authority/Reasons for Soft bounces on email delivery.md",
     "Sales & Marketing/Email Marketing/Domain Authority/Email Sender Authority rating.md",
-    "Sales & Marketing/Email Marketing/Chokyi Nyima Rinpoche Archives - DharmaSun _ Online Buddhist Teachings and Resources.html",
     "Research/Interesting Words.md",
     "Language/gomde.org - Translating 'Chokyi Nyima's bio from German.md",
-    "Language",
     "Discourse/Attention?.md",
-    "Discourse",
     "Discourse/Buddhism/Vajrayana/Well-known Vajrayana Teachers.md",
     "Discourse/Buddhism/Jhana.md",
     "Sales & Marketing/Email Marketing/Domain Authority/SPF - Sender Policy Framework.md",
-    "Sales & Marketing/Email Marketing/Domain Authority/Domain name spoofing.md",
-    "Sales & Marketing/Email Marketing/Domain Authority/DMARC - Domain-based Message Authentication Reporting and Conformance.md",
-    "Sales & Marketing/Email Marketing/Domain Authority/DKIM - 'Domain Keys Identified Mail'.md",
     "Sales & Marketing/Technical SEO/Website Analytics/Analytics Terms.canvas",
-    "Sales & Marketing/Technical SEO/Website Analytics/Skillshop learnings.canvas",
-    "Sales & Marketing/Technical SEO/Site Performance/Site Performance.canvas",
     "Sales & Marketing/Email Marketing/Email Marketing.canvas",
-    "Sales & Marketing/Technical SEO/Web Servers.canvas",
     "Sales & Marketing/Email Marketing/Urchin_software_team.png",
     "Sales & Marketing/Email Marketing/UTM campaign parameter construction.png",
-    "Research/Portfolio Inspo/Visuals/homepage_screenshot.png",
-    "Music/Music theory/detail_diagram.png"
+    "Research/Portfolio Inspo/Visuals/homepage_screenshot.png"
   ]
 }
