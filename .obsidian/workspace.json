@@ -11,52 +11,13 @@
             "id": "4da86f9e82d72577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Maths/Convert Hex to Decimal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Convert Hex to Decimal"
-            }
-          },
-          {
-            "id": "34d14b07d1d7cad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/Events/2026 Essex Computing events.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026 Essex Computing events"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,36 +180,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34d14b07d1d7cad2",
+  "active": "2aab721e398080c5",
   "lastOpenFiles": [
-    "Computing/Events/Untitled.canvas",
+    "Computing/Machine Learning/A.I/Inherent bias in LLMs/Inherent biases in LLMs.md",
+    "Computing/Machine Learning/A.I/Inherent bias in LLMs/Eugene Yan - LLM validation patterns.md",
+    "Computing/Machine Learning/Maths/conversion_table.png",
+    "Computing/Machine Learning/Maths/Convert Hex to Decimal.md",
+    "Computing/Machine Learning/Loss/Derivative of MSE (testolimited.com).md",
+    "Computing/Machine Learning/Linear Regression/Linear Regression.md",
+    "Computing/Machine Learning/A.I/Text Embeddings.md",
+    "Computing/Machine Learning/A.I/Terminology.canvas",
+    "Computing/Machine Learning/A.I/Inherent bias in LLMs",
+    "Computing/Machine Learning/A.I/A.I tool stack.md",
+    "Computing/Machine Learning/A.I/12_Sharma_FINAL-v.2.0-1.pdf",
+    "Computing/Machine Learning/understanding-machine-learning-theory-algorithms.pdf",
+    "Computing/Machine Learning/Sigmoid-derivation.png",
+    "Computing/Machine Learning/Maths",
+    "Computing/Machine Learning/Loss",
+    "Computing/Machine Learning/Logistic Regression.md",
+    "Computing/Machine Learning/Linear Regression",
+    "Computing/Machine Learning/A.I",
+    "Computing/Machine Learning/A glossary of LLM Architectures and acronyms.md",
+    "Computing/Machine Learning",
+    "Machine Learning/A.I/12_Sharma_FINAL-v.2.0-1.pdf",
+    "12_Sharma_FINAL-v.2.0-1.pdf",
     "Computing/Events/2026 Essex Computing events.md",
+    "Computing/Events/Untitled.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/Skillshop learnings.canvas",
-    "Computing/Events",
     "Sales & Marketing/Technical SEO/Site Performance/Site Performance.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/Google Analytics Fundamentals.canvas",
     "Food/Safety/Phtalates.md",
     "Art/Visual Art/Tribal/Visions of Kamala Ibrahim Ishag.md",
-    "Food/Safety",
     "Machine Learning/Maths/Convert Hex to Decimal.md",
-    "Art/Visual Art/Tribal",
-    "Art/Visual Art",
-    "Art",
     "Machine Learning/Maths/conversion_table.png",
     "Tools/Create your.md",
-    "Machine Learning/Maths",
     "Sales & Marketing/LinkedIn posts/PeopleAlsoAsked - Is a Web Developer worth it?.md",
     "u.md",
     "Tools/Anki - a productivity hack highlight.md",
     "Computing/Web Dev/Wordpress/Untitled.canvas",
-    "Computing",
-    "Research/Untitled",
     "Computing/Web Dev/Wordpress/wp-logo.png",
-    "Web Dev/Wordpress/wordpress-logo-png-transparent-background-11662328818phjnn8ii0q.duckload",
     "Computing/Web Dev/Wordpress/WP-Cli - the power of WP-Profile.md",
     "Web Dev/Wordpress/bootstrap_stage_highlight-wpcli.png",
     "Computing/Cyber Sec./YubiKey Auth on Mac.canvas",
-    "Computing/Web Dev/Wordpress",
     "Computing/Cyber Sec./Data Regulaton Compliance/Data Regulations Compliance.canvas",
     "Sales & Marketing/Technical SEO/Website Analytics/ToFu, MoFu & BoFu.md",
     "Sales & Marketing/Technical SEO/Website Analytics/GA4 - \"Key Events\".md",
@@ -263,18 +236,7 @@
     "Sales & Marketing/Email Marketing/Urchin software/Brett Crosby - Marketing.md",
     "Sales & Marketing/Email Marketing/Example tracking email.md",
     "Sales & Marketing/Email Marketing/Email HTML code composition.md",
-    "Sales & Marketing/Email Marketing/Domain Authority/Reasons for Soft bounces on email delivery.md",
-    "Sales & Marketing/Email Marketing/Domain Authority/Email Sender Authority rating.md",
-    "Research/Interesting Words.md",
-    "Language/gomde.org - Translating 'Chokyi Nyima's bio from German.md",
-    "Discourse/Attention?.md",
-    "Discourse/Buddhism/Vajrayana/Well-known Vajrayana Teachers.md",
-    "Discourse/Buddhism/Jhana.md",
-    "Sales & Marketing/Email Marketing/Domain Authority/SPF - Sender Policy Framework.md",
     "Sales & Marketing/Technical SEO/Website Analytics/Analytics Terms.canvas",
-    "Sales & Marketing/Email Marketing/Email Marketing.canvas",
-    "Sales & Marketing/Email Marketing/Urchin_software_team.png",
-    "Sales & Marketing/Email Marketing/UTM campaign parameter construction.png",
-    "Research/Portfolio Inspo/Visuals/homepage_screenshot.png"
+    "Sales & Marketing/Email Marketing/Urchin_software_team.png"
   ]
 }
